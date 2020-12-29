@@ -1,0 +1,7 @@
+requestInfoReplyComment: >
+  I would appreciate it if you could provide me with more info about this issue/pr!
+  Please do not leave the `title` or `description` empty and follow the issue/pr template.
+requestInfoDefaultTitles:
+  - update readme.md
+  - updates
+requestInfoLabelToAdd: "need-more-info"
