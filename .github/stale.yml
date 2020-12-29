@@ -1,0 +1,12 @@
+daysUntilStale: 60
+daysUntilClose: 7
+exemptLabels:
+  - "pinned"
+  - "security"
+staleLabel: inactive
+markComment: >
+  This issue has been automatically marked as stale because it has not had
+  recent activity. It will be closed if no further activity occurs.
+  Thank you for your contributions. For admin, please label this issue `pinned`
+  to prevent stale bot from closing the issue.
+closeComment: false
