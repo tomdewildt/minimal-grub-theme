@@ -1,6 +1,6 @@
 # Minimal GRUB Theme
 [![Version](https://img.shields.io/github/v/release/tomdewildt/minimal-grub-theme?label=version)](https://github.com/tomdewildt/minimal-grub-theme/releases)
-[![Release](https://img.shields.io/github/workflow/status/tomdewildt/minimal-grub-theme/cd?label=release)](https://github.com/tomdewildt/minimal-grub-theme/actions?query=workflow%3Acd)
+[![Release](https://img.shields.io/github/actions/workflow/status/tomdewildt/minimal-grub-theme/cd.yml?branch=master&label=release)](https://github.com/tomdewildt/minimal-grub-theme/actions/workflows/cd.yml)
 [![License](https://img.shields.io/github/license/tomdewildt/minimal-grub-theme)](https://github.com/tomdewildt/minimal-grub-theme/blob/master/LICENSE)
 
 Minimalistic GRUB theme insipired by [primitivistical](https://gitlab.com/fffred/primitivistical-grub/-/tree/master/) and [vimix](https://github.com/vinceliuice/grub2-themes).
