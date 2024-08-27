@@ -34,3 +34,4 @@ Run ```make emulator/start``` to start the emulator and ```make emulator/version
 [GRUB Theme Tutorial](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
 
 [Gnome-Look GRUB Themes](https://www.gnome-look.org/browse/cat/109/order/latest/)
+
