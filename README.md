@@ -35,6 +35,3 @@ Run ```make emulator/start``` to start the emulator and ```make emulator/version
 
 [Gnome-Look GRUB Themes](https://www.gnome-look.org/browse/cat/109/order/latest/)
 
-# Fork
-
-Forked by slashpotato to add more icons
