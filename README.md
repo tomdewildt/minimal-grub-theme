@@ -5,14 +5,11 @@
 
 Minimalistic GRUB theme insipired by [primitivistical](https://gitlab.com/fffred/primitivistical-grub/-/tree/master/) and [vimix](https://github.com/vinceliuice/grub2-themes).
 
-**Note:** This theme only supports systems with a 1920x1080 resolution.
-
 # How To Install
 
 Prerequisites:
 * grub version ```2.0.4``` or later
-* grub-emu version ```2.0.4``` or later
-
+  
 ### Install
 
 1. Run ```make install``` to install the theme.
@@ -21,15 +18,17 @@ Prerequisites:
 
 1. Run ```make uninstall``` to uninstall the theme.
 
-Run ```make emulator/start``` to start the emulator and ```make emulator/version``` to view the emulator version.
+Run ```make emulator/init``` once to setup the emulator then run ```make emulator/start``` to start the emulator and ```make emulator/version``` to view the emulator version.
 
 # Preview
 
-![Preview](/preview.jpg?raw=true)
+![Preview](/preview.png?raw=true)
 
 # References
 
 [GRUB Manual](https://www.gnu.org/software/grub/manual/grub/grub.html)
+
+[GRUB Theme Preview](https://github.com/hartwork/grub2-theme-preview)
 
 [GRUB Theme Tutorial](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
 
