@@ -1,0 +1,11 @@
+bug:
+  - "/bug|defect|regression|crash(es|ed|ing)?|broken|not working|doesn.t work|won.t work|can.t work|fail(s|ed|ing|ure)?|error|exception|unexpected behaviou?r|stack ?trace|segfault|panic|unable to|incorrect(ly)?/i"
+
+enhancement:
+  - "/feature request|proposal|suggestion|improvement|enhance(ment)?|add support|would be nice|would be great|please add|please support|consider adding|wish ?list|new feature/i"
+
+documentation:
+  - "/documentation|docs\\b|readme|typo|spelling|grammar|missing doc|outdated doc|unclear doc|changelog|missing example|outdated example/i"
+
+question:
+  - "/question|how do i|how to |how can i|why does|is it possible|clarif(y|ication)|what is the |can someone explain|help needed|anyone know|is there a way/i"
